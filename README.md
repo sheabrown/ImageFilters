@@ -7,4 +7,4 @@ Here is the original image (of the Coma cluster, red DSS).
 
 Here it is after filtering out some of the more diffuse emission with 
 
-![alt tag](https://github.com/sheabrown/ImageFilters/blob/master/point_sources.png)
+![alt tag](https://github.com/sheabrown/ImageFilters/blob/master/point_sources.jpg)
